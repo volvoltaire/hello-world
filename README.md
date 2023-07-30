@@ -1,2 +1,3 @@
 # hello-world
 This 'Hello World' repository is for a GitHub tutorial assignment. It demonstrates creating repositories, branches, making commits, and the pull request workflow. Contains a README with personal info and changes
+Hello Word !I'm Tshepang Vol Mokgosi, a 20-year-old second-year student at Belgium Campus in Pretoria North. I'm studying various modules, but I particularly enjoy web programming and math. My aspiration is to become a web developer or designer, ideally for a startup or my own SEO company. I'm passionate about learning to code websites and look forward to applying my skills in real-world scenarios.
